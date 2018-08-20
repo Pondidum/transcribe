@@ -1,0 +1,4 @@
+{"Timestamp":"2018-08-08T22:11:39.3433885+03:00","Level":"Information","MessageTemplate":"This is the {count} message","Properties":{"count":1}}
+{"Timestamp":"2018-08-08T22:11:40.3568818+03:00","Level":"Information","MessageTemplate":"This is the {count} message for {name}","Properties":{"count":2, "name": "John"}}
+{"Timestamp":"2018-08-08T22:11:41.3572721+03:00","Level":"Information","MessageTemplate":"This is the {count} message","Properties":{"count":3}}
+{"Timestamp":"2018-08-08T22:11:42.3582445+03:00","Level":"Information","MessageTemplate":"This is the {count} message","Properties":{"count":4}}
